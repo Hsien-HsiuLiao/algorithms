@@ -10,6 +10,11 @@
 
 - https://github.com/Hsien-HsiuLiao/cash-register
 
+## resources
+
+* https://github.com/Hsien-HsiuLiao/javascript-algorithms-and-data-structures
+* https://github.com/Hsien-HsiuLiao/data-structures-and-algorithms-study
+
 ## other
 
 - https://github.com/Hsien-HsiuLiao/factorial-algorithm
