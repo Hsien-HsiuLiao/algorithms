@@ -1,4 +1,7 @@
-## algorithm projects
+## leetcode
+- https://github.com/Hsien-HsiuLiao/rust/tree/main/leetcode
+
+## algorithms (javascript)
 
 - https://github.com/Hsien-HsiuLiao/Roman-numeral-converter
 
